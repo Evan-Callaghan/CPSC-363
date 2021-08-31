@@ -1,11 +1,13 @@
 # Calibration Exercise
 
 ## Installation Instructions:
-1. Download folder containing all student goals .txt files.
-2. Download .ipynb Python file.
-3. Make sure to save these in the same folder.
-4. Open Jupyter Notebook or Jupyter Lab.
-5. Open the .ipynb file and run the individual cells.
-6. 
+1. On the CPSC-363 repository, clink the green "Code" button.
+2. Then, select "Download Zip" option.
+3. folder containing all student goals .txt files.
+4. Download .ipynb Python file.
+5. Make sure to save these in the same folder.
+6. Open Jupyter Notebook or Jupyter Lab.
+7. Open the .ipynb file and run the individual cells.
+8. 
 
 ## Installation Video Link:
