@@ -8,4 +8,4 @@
 5. Finally, run the individual cells (by clicking on the desired cell, and pressing "control" + "Enter") and follow the prompts in the program.
 
 ## Installation Video Link:
-[Installation video link](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=d989fefd-a925-4c36-8c03-ad95012c8889)
+For the installation instruction video, click [here](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=d989fefd-a925-4c36-8c03-ad95012c8889).
