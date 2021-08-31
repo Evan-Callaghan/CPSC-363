@@ -5,6 +5,6 @@
 2. Then, select the "Download ZIP" option.
 3. Now, open the ZIP file and open Jupyter Notebook or Jupyter Lab.
 4. Next, in Jupyter, navigate to where the file is saved (could leave it in downloads) and open "Calibration Exercise.ipynb"
-5. Finally, run the individual cells and follow the prompts in the program.
+5. Finally, run the individual cells (by clicking on the desired cell, and pressing "control" + "Enter") and follow the prompts in the program.
 
 ## Installation Video Link:
