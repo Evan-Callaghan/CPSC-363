@@ -1,0 +1,16 @@
+Calibration Exercise Log
+
+2021-Aug-27: 30 minutes: Brainstorming and jotting notes for calibration exercise ideas
+
+2021-Aug-30: 30 minutes: Creating Github framework for calibration exercise (creating repo, separating folders, and adding README)
+
+2021-Aug-30: 3 hours: Creating a plan for the program and writing the initial code
+
+2021-Aug-31: 1 hour: Configuring all student goal statements into text files, renaming files, and organizing documents in order for it to work properly in the program
+
+2021-Aug-31: 30 minutes: Fixing up and making slight changes to the program before completion
+
+2021-Aug-31: 30 minutes: Starting Panopto screen sharing and video sharing software, creating/editing installation video, and uploading it to GitHub
+
+2021-Aug-31: 20 minutes: Following instructions on two different laptops to see if it is straightforward
+
